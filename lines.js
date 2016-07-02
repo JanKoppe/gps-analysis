@@ -26,16 +26,19 @@ files.map(file => {
       // calcule total distance from beginning
       if (i === 0) {
         feature.properties.distance = 0;
+        feature.properties.speed = 0;
       }
       else {
-        feature.properties.distance =
-          features[i - 1].properties.distance + //distance so far
-          gpsUtil.getDistance(                  // distance from last point
+        let partialDistance = gpsUtil.getDistance(// distance from last point
               feature.geometry.coordinates[0][0], //lat
               feature.geometry.coordinates[0][1], //long
               feature.geometry.coordinates[1][0], //lat
               feature.geometry.coordinates[1][1] //long
               );
+        feature.properties.distance =
+          features[i - 1].properties.distance + //distance so far
+          partialDistance;
+        feature.properties.speed = partialDistance / POINT_TIME;
       }
     });
     // save to geojson file

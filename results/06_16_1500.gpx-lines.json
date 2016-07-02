@@ -22,7 +22,8 @@
 				"pcElev": null,
 				"elev": null,
 				"time": 0,
-				"distance": 0
+				"distance": 0,
+				"speed": 0
 			}
 		},
 		{
@@ -46,7 +47,8 @@
 				"pcElev": null,
 				"elev": null,
 				"time": 5,
-				"distance": 19.135600179597596
+				"distance": 19.135600179597596,
+				"speed": 3.827120035919519
 			}
 		},
 		{
@@ -70,7 +72,8 @@
 				"pcElev": null,
 				"elev": null,
 				"time": 10,
-				"distance": 47.07340411209081
+				"distance": 47.07340411209081,
+				"speed": 5.587560786498643
 			}
 		},
 		{
@@ -94,7 +97,8 @@
 				"pcElev": null,
 				"elev": null,
 				"time": 15,
-				"distance": 92.95416433027385
+				"distance": 92.95416433027385,
+				"speed": 9.176152043636609
 			}
 		},
 		{
@@ -118,7 +122,8 @@
 				"pcElev": null,
 				"elev": null,
 				"time": 20,
-				"distance": 114.33924794817385
+				"distance": 114.33924794817385,
+				"speed": 4.277016723579999
 			}
 		},
 		{
@@ -142,7 +147,8 @@
 				"pcElev": null,
 				"elev": null,
 				"time": 25,
-				"distance": 146.4188753273817
+				"distance": 146.4188753273817,
+				"speed": 6.415925475841571
 			}
 		},
 		{
@@ -166,7 +172,8 @@
 				"pcElev": null,
 				"elev": null,
 				"time": 30,
-				"distance": 178.49854649408613
+				"distance": 178.49854649408613,
+				"speed": 6.415934233340886
 			}
 		},
 		{
@@ -190,7 +197,8 @@
 				"pcElev": null,
 				"elev": null,
 				"time": 35,
-				"distance": 217.60430537574626
+				"distance": 217.60430537574626,
+				"speed": 7.821151776332028
 			}
 		},
 		{
@@ -214,7 +222,8 @@
 				"pcElev": null,
 				"elev": null,
 				"time": 40,
-				"distance": 256.71014630245907
+				"distance": 256.71014630245907,
+				"speed": 7.821168185342557
 			}
 		},
 		{
@@ -238,7 +247,8 @@
 				"pcElev": null,
 				"elev": null,
 				"time": 45,
-				"distance": 256.71014630245907
+				"distance": 256.71014630245907,
+				"speed": 0
 			}
 		},
 		{
@@ -262,7 +272,8 @@
 				"pcElev": null,
 				"elev": null,
 				"time": 50,
-				"distance": 298.36292794060245
+				"distance": 298.36292794060245,
+				"speed": 8.330556327628681
 			}
 		},
 		{
@@ -286,7 +297,8 @@
 				"pcElev": null,
 				"elev": null,
 				"time": 55,
-				"distance": 340.01579996847704
+				"distance": 340.01579996847704,
+				"speed": 8.330574405574914
 			}
 		},
 		{
@@ -310,7 +322,8 @@
 				"pcElev": null,
 				"elev": null,
 				"time": 60,
-				"distance": 380.05657343876993
+				"distance": 380.05657343876993,
+				"speed": 8.008154694058575
 			}
 		},
 		{
@@ -334,7 +347,8 @@
 				"pcElev": null,
 				"elev": null,
 				"time": 65,
-				"distance": 420.09743226237345
+				"distance": 420.09743226237345,
+				"speed": 8.008171764720709
 			}
 		},
 		{
@@ -358,7 +372,8 @@
 				"pcElev": null,
 				"elev": null,
 				"time": 70,
-				"distance": 450.9706623727819
+				"distance": 450.9706623727819,
+				"speed": 6.174646022081685
 			}
 		},
 		{
@@ -382,7 +397,8 @@
 				"pcElev": null,
 				"elev": null,
 				"time": 75,
-				"distance": 497.15808451789735
+				"distance": 497.15808451789735,
+				"speed": 9.237484429023091
 			}
 		},
 		{
@@ -406,7 +422,8 @@
 				"pcElev": null,
 				"elev": null,
 				"time": 80,
-				"distance": 532.4673348854327
+				"distance": 532.4673348854327,
+				"speed": 7.061850073507076
 			}
 		},
 		{
@@ -430,7 +447,8 @@
 				"pcElev": null,
 				"elev": null,
 				"time": 85,
-				"distance": 557.2711563157735
+				"distance": 557.2711563157735,
+				"speed": 4.9607642860681604
 			}
 		},
 		{
@@ -454,7 +472,8 @@
 				"pcElev": null,
 				"elev": null,
 				"time": 90,
-				"distance": 597.6674163232615
+				"distance": 597.6674163232615,
+				"speed": 8.0792520014976
 			}
 		},
 		{
@@ -478,7 +497,8 @@
 				"pcElev": null,
 				"elev": null,
 				"time": 95,
-				"distance": 638.0636514996422
+				"distance": 638.0636514996422,
+				"speed": 8.079247035276156
 			}
 		},
 		{
@@ -502,7 +522,8 @@
 				"pcElev": null,
 				"elev": null,
 				"time": 100,
-				"distance": 638.0636514996422
+				"distance": 638.0636514996422,
+				"speed": 0
 			}
 		},
 		{
@@ -526,7 +547,8 @@
 				"pcElev": null,
 				"elev": null,
 				"time": 105,
-				"distance": 685.3822590815632
+				"distance": 685.3822590815632,
+				"speed": 9.463721516384213
 			}
 		},
 		{
@@ -550,7 +572,8 @@
 				"pcElev": null,
 				"elev": null,
 				"time": 110,
-				"distance": 732.7008099833199
+				"distance": 732.7008099833199,
+				"speed": 9.463710180351338
 			}
 		},
 		{
@@ -574,7 +597,8 @@
 				"pcElev": null,
 				"elev": null,
 				"time": 115,
-				"distance": 732.7008099833199
+				"distance": 732.7008099833199,
+				"speed": 0
 			}
 		},
 		{
@@ -598,7 +622,8 @@
 				"pcElev": null,
 				"elev": null,
 				"time": 120,
-				"distance": 779.2927715836875
+				"distance": 779.2927715836875,
+				"speed": 9.318392320073498
 			}
 		},
 		{
@@ -622,7 +647,8 @@
 				"pcElev": null,
 				"elev": null,
 				"time": 125,
-				"distance": 825.884650651922
+				"distance": 825.884650651922,
+				"speed": 9.318375813646915
 			}
 		},
 		{
@@ -646,7 +672,8 @@
 				"pcElev": null,
 				"elev": null,
 				"time": 130,
-				"distance": 868.5902748701333
+				"distance": 868.5902748701333,
+				"speed": 8.54112484364225
 			}
 		},
 		{
@@ -670,7 +697,8 @@
 				"pcElev": null,
 				"elev": null,
 				"time": 135,
-				"distance": 911.2958232219208
+				"distance": 911.2958232219208,
+				"speed": 8.541109670357518
 			}
 		},
 		{
@@ -694,7 +722,8 @@
 				"pcElev": null,
 				"elev": null,
 				"time": 140,
-				"distance": 911.2958232219208
+				"distance": 911.2958232219208,
+				"speed": 0
 			}
 		},
 		{
@@ -718,7 +747,8 @@
 				"pcElev": null,
 				"elev": null,
 				"time": 145,
-				"distance": 956.2798398901433
+				"distance": 956.2798398901433,
+				"speed": 8.99680333364449
 			}
 		},
 		{
@@ -742,7 +772,8 @@
 				"pcElev": null,
 				"elev": null,
 				"time": 150,
-				"distance": 1022.4477825283489
+				"distance": 1022.4477825283489,
+				"speed": 13.2335885276411
 			}
 		},
 		{
@@ -766,7 +797,8 @@
 				"pcElev": null,
 				"elev": null,
 				"time": 155,
-				"distance": 1042.0627296138102
+				"distance": 1042.0627296138102,
+				"speed": 3.92298941709229
 			}
 		},
 		{
@@ -790,7 +822,8 @@
 				"pcElev": null,
 				"elev": null,
 				"time": 160,
-				"distance": 1050.9432876045776
+				"distance": 1050.9432876045776,
+				"speed": 1.7761115981534445
 			}
 		},
 		{
@@ -814,7 +847,8 @@
 				"pcElev": null,
 				"elev": null,
 				"time": 165,
-				"distance": 1085.1012329226833
+				"distance": 1085.1012329226833,
+				"speed": 6.831589063621128
 			}
 		},
 		{
@@ -838,7 +872,8 @@
 				"pcElev": null,
 				"elev": null,
 				"time": 170,
-				"distance": 1108.6336455025848
+				"distance": 1108.6336455025848,
+				"speed": 4.7064825159803245
 			}
 		},
 		{
@@ -862,7 +897,8 @@
 				"pcElev": null,
 				"elev": null,
 				"time": 175,
-				"distance": 1141.476367869026
+				"distance": 1141.476367869026,
+				"speed": 6.568544473288261
 			}
 		},
 		{
@@ -886,7 +922,8 @@
 				"pcElev": null,
 				"elev": null,
 				"time": 180,
-				"distance": 1174.3190094478837
+				"distance": 1174.3190094478837,
+				"speed": 6.568528315771529
 			}
 		},
 		{
@@ -910,7 +947,8 @@
 				"pcElev": null,
 				"elev": null,
 				"time": 185,
-				"distance": 1213.2907125672934
+				"distance": 1213.2907125672934,
+				"speed": 7.794340623881975
 			}
 		},
 		{
@@ -934,7 +972,8 @@
 				"pcElev": null,
 				"elev": null,
 				"time": 190,
-				"distance": 1252.2623414758386
+				"distance": 1252.2623414758386,
+				"speed": 7.7943257817090394
 			}
 		},
 		{
@@ -958,7 +997,8 @@
 				"pcElev": null,
 				"elev": null,
 				"time": 195,
-				"distance": 1293.2116890167647
+				"distance": 1293.2116890167647,
+				"speed": 8.189869508185213
 			}
 		},
 		{
@@ -982,7 +1022,8 @@
 				"pcElev": null,
 				"elev": null,
 				"time": 200,
-				"distance": 1334.1610095782335
+				"distance": 1334.1610095782335,
+				"speed": 8.189864112293764
 			}
 		},
 		{
@@ -1006,7 +1047,8 @@
 				"pcElev": null,
 				"elev": null,
 				"time": 205,
-				"distance": 1334.1610095782335
+				"distance": 1334.1610095782335,
+				"speed": 0
 			}
 		},
 		{
@@ -1030,7 +1072,8 @@
 				"pcElev": null,
 				"elev": null,
 				"time": 210,
-				"distance": 1377.092101219253
+				"distance": 1377.092101219253,
+				"speed": 8.586218328203898
 			}
 		},
 		{
@@ -1054,7 +1097,8 @@
 				"pcElev": null,
 				"elev": null,
 				"time": 215,
-				"distance": 1420.0231801459277
+				"distance": 1420.0231801459277,
+				"speed": 8.586215785334934
 			}
 		},
 		{
@@ -1078,7 +1122,8 @@
 				"pcElev": null,
 				"elev": null,
 				"time": 220,
-				"distance": 1420.0231801459277
+				"distance": 1420.0231801459277,
+				"speed": 0
 			}
 		},
 		{
@@ -1102,7 +1147,8 @@
 				"pcElev": null,
 				"elev": null,
 				"time": 225,
-				"distance": 1463.1757526784434
+				"distance": 1463.1757526784434,
+				"speed": 8.630514506503129
 			}
 		},
 		{
@@ -1126,7 +1172,8 @@
 				"pcElev": null,
 				"elev": null,
 				"time": 230,
-				"distance": 1506.3283115864103
+				"distance": 1506.3283115864103,
+				"speed": 8.630511781593395
 			}
 		},
 		{
@@ -1150,7 +1197,8 @@
 				"pcElev": null,
 				"elev": null,
 				"time": 235,
-				"distance": 1550.2293580608734
+				"distance": 1550.2293580608734,
+				"speed": 8.78020929489264
 			}
 		},
 		{
@@ -1174,7 +1222,8 @@
 				"pcElev": null,
 				"elev": null,
 				"time": 240,
-				"distance": 1594.130370637198
+				"distance": 1594.130370637198,
+				"speed": 8.780202515264895
 			}
 		},
 		{
@@ -1198,7 +1247,8 @@
 				"pcElev": null,
 				"elev": null,
 				"time": 245,
-				"distance": 1594.130370637198
+				"distance": 1594.130370637198,
+				"speed": 0
 			}
 		},
 		{
@@ -1222,7 +1272,8 @@
 				"pcElev": null,
 				"elev": null,
 				"time": 250,
-				"distance": 1638.5287691015856
+				"distance": 1638.5287691015856,
+				"speed": 8.879679692877493
 			}
 		},
 		{
@@ -1246,7 +1297,8 @@
 				"pcElev": null,
 				"elev": null,
 				"time": 255,
-				"distance": 1682.9271275399067
+				"distance": 1682.9271275399067,
+				"speed": 8.879671687664217
 			}
 		},
 		{
@@ -1270,7 +1322,8 @@
 				"pcElev": null,
 				"elev": null,
 				"time": 260,
-				"distance": 1724.8824950902228
+				"distance": 1724.8824950902228,
+				"speed": 8.391073510063254
 			}
 		},
 		{
@@ -1294,7 +1347,8 @@
 				"pcElev": null,
 				"elev": null,
 				"time": 265,
-				"distance": 1766.8378390054106
+				"distance": 1766.8378390054106,
+				"speed": 8.391068783037557
 			}
 		},
 		{
@@ -1318,7 +1372,8 @@
 				"pcElev": null,
 				"elev": null,
 				"time": 270,
-				"distance": 1803.6916624283415
+				"distance": 1803.6916624283415,
+				"speed": 7.370764684586175
 			}
 		},
 		{
@@ -1342,7 +1397,8 @@
 				"pcElev": null,
 				"elev": null,
 				"time": 275,
-				"distance": 1840.545476898294
+				"distance": 1840.545476898294,
+				"speed": 7.370762893990497
 			}
 		},
 		{
@@ -1366,7 +1422,8 @@
 				"pcElev": null,
 				"elev": null,
 				"time": 280,
-				"distance": 1875.7543786936037
+				"distance": 1875.7543786936037,
+				"speed": 7.041780359061913
 			}
 		},
 		{
@@ -1390,7 +1447,8 @@
 				"pcElev": null,
 				"elev": null,
 				"time": 285,
-				"distance": 1910.9632615649145
+				"distance": 1910.9632615649145,
+				"speed": 7.041776574262165
 			}
 		},
 		{
@@ -1414,7 +1472,8 @@
 				"pcElev": null,
 				"elev": null,
 				"time": 290,
-				"distance": 1910.9632615649145
+				"distance": 1910.9632615649145,
+				"speed": 0
 			}
 		},
 		{
@@ -1438,7 +1497,8 @@
 				"pcElev": null,
 				"elev": null,
 				"time": 295,
-				"distance": 1948.290326503243
+				"distance": 1948.290326503243,
+				"speed": 7.465412987665705
 			}
 		},
 		{
@@ -1462,7 +1522,8 @@
 				"pcElev": null,
 				"elev": null,
 				"time": 300,
-				"distance": 1985.6173612559026
+				"distance": 1985.6173612559026,
+				"speed": 7.465406950531914
 			}
 		},
 		{
@@ -1486,7 +1547,8 @@
 				"pcElev": null,
 				"elev": null,
 				"time": 305,
-				"distance": 2025.9537578859067
+				"distance": 2025.9537578859067,
+				"speed": 8.067279326000829
 			}
 		},
 		{
@@ -1510,7 +1572,8 @@
 				"pcElev": null,
 				"elev": null,
 				"time": 310,
-				"distance": 2066.290142759612
+				"distance": 2066.290142759612,
+				"speed": 8.067276974741027
 			}
 		},
 		{
@@ -1534,7 +1597,8 @@
 				"pcElev": null,
 				"elev": null,
 				"time": 315,
-				"distance": 2105.502399865608
+				"distance": 2105.502399865608,
+				"speed": 7.842451421199124
 			}
 		},
 		{
@@ -1558,7 +1622,8 @@
 				"pcElev": null,
 				"elev": null,
 				"time": 320,
-				"distance": 2144.7146405137
+				"distance": 2144.7146405137,
+				"speed": 7.842448129618425
 			}
 		},
 		{
@@ -1582,7 +1647,8 @@
 				"pcElev": null,
 				"elev": null,
 				"time": 325,
-				"distance": 2172.107495047386
+				"distance": 2172.107495047386,
+				"speed": 5.478570906737178
 			}
 		},
 		{
@@ -1606,7 +1672,8 @@
 				"pcElev": null,
 				"elev": null,
 				"time": 330,
-				"distance": 2223.557467279961
+				"distance": 2223.557467279961,
+				"speed": 10.289994446515106
 			}
 		},
 		{
@@ -1630,7 +1697,8 @@
 				"pcElev": null,
 				"elev": null,
 				"time": 335,
-				"distance": 2247.617526586601
+				"distance": 2247.617526586601,
+				"speed": 4.812011861327969
 			}
 		},
 		{
@@ -1654,7 +1722,8 @@
 				"pcElev": null,
 				"elev": null,
 				"time": 340,
-				"distance": 2279.1855247162257
+				"distance": 2279.1855247162257,
+				"speed": 6.313599625924943
 			}
 		},
 		{
@@ -1678,7 +1747,8 @@
 				"pcElev": null,
 				"elev": null,
 				"time": 345,
-				"distance": 2310.7535331530034
+				"distance": 2310.7535331530034,
+				"speed": 6.313601687355589
 			}
 		},
 		{
@@ -1702,7 +1772,8 @@
 				"pcElev": null,
 				"elev": null,
 				"time": 350,
-				"distance": 2347.3776398224536
+				"distance": 2347.3776398224536,
+				"speed": 7.324821333890064
 			}
 		},
 		{
@@ -1726,7 +1797,8 @@
 				"pcElev": null,
 				"elev": null,
 				"time": 355,
-				"distance": 2384.001783629962
+				"distance": 2384.001783629962,
+				"speed": 7.324828761501713
 			}
 		},
 		{
@@ -1750,7 +1822,8 @@
 				"pcElev": null,
 				"elev": null,
 				"time": 360,
-				"distance": 2384.001783629962
+				"distance": 2384.001783629962,
+				"speed": 0
 			}
 		},
 		{
@@ -1774,7 +1847,8 @@
 				"pcElev": null,
 				"elev": null,
 				"time": 365,
-				"distance": 2423.180829671399
+				"distance": 2423.180829671399,
+				"speed": 7.83580920828736
 			}
 		},
 		{
@@ -1798,7 +1872,8 @@
 				"pcElev": null,
 				"elev": null,
 				"time": 370,
-				"distance": 2462.359946372105
+				"distance": 2462.359946372105,
+				"speed": 7.835823340141211
 			}
 		},
 		{
@@ -1822,7 +1897,8 @@
 				"pcElev": null,
 				"elev": null,
 				"time": 375,
-				"distance": 2499.912436279174
+				"distance": 2499.912436279174,
+				"speed": 7.510497981413809
 			}
 		},
 		{
@@ -1846,7 +1922,8 @@
 				"pcElev": null,
 				"elev": null,
 				"time": 380,
-				"distance": 2537.4650053970718
+				"distance": 2537.4650053970718,
+				"speed": 7.510513823579506
 			}
 		},
 		{
@@ -1870,7 +1947,8 @@
 				"pcElev": null,
 				"elev": null,
 				"time": 385,
-				"distance": 2575.3522186623586
+				"distance": 2575.3522186623586,
+				"speed": 7.577442653057373
 			}
 		},
 		{
@@ -1894,7 +1972,8 @@
 				"pcElev": null,
 				"elev": null,
 				"time": 390,
-				"distance": 2613.239521181687
+				"distance": 2613.239521181687,
+				"speed": 7.57746050386564
 			}
 		},
 		{
@@ -1918,7 +1997,8 @@
 				"pcElev": null,
 				"elev": null,
 				"time": 395,
-				"distance": 2652.496220485084
+				"distance": 2652.496220485084,
+				"speed": 7.851339860679417
 			}
 		},
 		{
@@ -1942,7 +2022,8 @@
 				"pcElev": null,
 				"elev": null,
 				"time": 400,
-				"distance": 2691.7530102529854
+				"distance": 2691.7530102529854,
+				"speed": 7.851357953580307
 			}
 		},
 		{
@@ -1966,7 +2047,8 @@
 				"pcElev": null,
 				"elev": null,
 				"time": 405,
-				"distance": 2691.7530102529854
+				"distance": 2691.7530102529854,
+				"speed": 0
 			}
 		},
 		{
@@ -1990,7 +2072,8 @@
 				"pcElev": null,
 				"elev": null,
 				"time": 410,
-				"distance": 2731.3195075300396
+				"distance": 2731.3195075300396,
+				"speed": 7.9132994554108675
 			}
 		},
 		{
@@ -2014,7 +2097,8 @@
 				"pcElev": null,
 				"elev": null,
 				"time": 415,
-				"distance": 2799.687756703416
+				"distance": 2799.687756703416,
+				"speed": 13.67364983467528
 			}
 		},
 		{
@@ -2038,7 +2122,8 @@
 				"pcElev": null,
 				"elev": null,
 				"time": 420,
-				"distance": 2828.506180723678
+				"distance": 2828.506180723678,
+				"speed": 5.76368480405233
 			}
 		},
 		{
@@ -2062,7 +2147,8 @@
 				"pcElev": null,
 				"elev": null,
 				"time": 425,
-				"distance": 2856.02130321636
+				"distance": 2856.02130321636,
+				"speed": 5.503024498536458
 			}
 		},
 		{
@@ -2086,7 +2172,8 @@
 				"pcElev": null,
 				"elev": null,
 				"time": 430,
-				"distance": 2883.5364697906875
+				"distance": 2883.5364697906875,
+				"speed": 5.503033314865452
 			}
 		},
 		{
@@ -2110,7 +2197,8 @@
 				"pcElev": null,
 				"elev": null,
 				"time": 435,
-				"distance": 2915.741522876604
+				"distance": 2915.741522876604,
+				"speed": 6.441010617183305
 			}
 		},
 		{
@@ -2134,7 +2222,8 @@
 				"pcElev": null,
 				"elev": null,
 				"time": 440,
-				"distance": 2975.9933239210936
+				"distance": 2975.9933239210936,
+				"speed": 12.05036020889789
 			}
 		},
 		{
@@ -2158,7 +2247,8 @@
 				"pcElev": null,
 				"elev": null,
 				"time": 445,
-				"distance": 3004.099635429755
+				"distance": 3004.099635429755,
+				"speed": 5.621262301732269
 			}
 		},
 		{
@@ -2182,7 +2272,8 @@
 				"pcElev": null,
 				"elev": null,
 				"time": 450,
-				"distance": 3029.8102223586934
+				"distance": 3029.8102223586934,
+				"speed": 5.14211738578774
 			}
 		},
 		{
@@ -2206,7 +2297,8 @@
 				"pcElev": null,
 				"elev": null,
 				"time": 455,
-				"distance": 3055.5208378038824
+				"distance": 3055.5208378038824,
+				"speed": 5.142123089037829
 			}
 		},
 		{
@@ -2230,7 +2322,8 @@
 				"pcElev": null,
 				"elev": null,
 				"time": 460,
-				"distance": 3086.9549439489524
+				"distance": 3086.9549439489524,
+				"speed": 6.286821229013989
 			}
 		},
 		{
@@ -2254,7 +2347,8 @@
 				"pcElev": null,
 				"elev": null,
 				"time": 465,
-				"distance": 3118.3890988059757
+				"distance": 3118.3890988059757,
+				"speed": 6.286830971404676
 			}
 		},
 		{
@@ -2278,7 +2372,8 @@
 				"pcElev": null,
 				"elev": null,
 				"time": 470,
-				"distance": 3151.2989291209524
+				"distance": 3151.2989291209524,
+				"speed": 6.581966062995333
 			}
 		},
 		{
@@ -2302,7 +2397,8 @@
 				"pcElev": null,
 				"elev": null,
 				"time": 475,
-				"distance": 3184.2088174026726
+				"distance": 3184.2088174026726,
+				"speed": 6.581977656344049
 			}
 		},
 		{
@@ -2326,7 +2422,8 @@
 				"pcElev": null,
 				"elev": null,
 				"time": 480,
-				"distance": 3218.989162170623
+				"distance": 3218.989162170623,
+				"speed": 6.956068953590045
 			}
 		},
 		{
@@ -2350,7 +2447,8 @@
 				"pcElev": null,
 				"elev": null,
 				"time": 485,
-				"distance": 3253.7695798456243
+				"distance": 3253.7695798456243,
+				"speed": 6.956083535000273
 			}
 		},
 		{
@@ -2374,7 +2472,8 @@
 				"pcElev": null,
 				"elev": null,
 				"time": 490,
-				"distance": 3290.1313495739423
+				"distance": 3290.1313495739423,
+				"speed": 7.272353945663565
 			}
 		},
 		{
@@ -2398,7 +2497,8 @@
 				"pcElev": null,
 				"elev": null,
 				"time": 495,
-				"distance": 3326.493204955819
+				"distance": 3326.493204955819,
+				"speed": 7.272371076375267
 			}
 		},
 		{
@@ -2422,7 +2522,8 @@
 				"pcElev": null,
 				"elev": null,
 				"time": 500,
-				"distance": 3359.4715948858784
+				"distance": 3359.4715948858784,
+				"speed": 6.595677986011944
 			}
 		},
 		{
@@ -2446,7 +2547,8 @@
 				"pcElev": null,
 				"elev": null,
 				"time": 505,
-				"distance": 3392.4500607187024
+				"distance": 3392.4500607187024,
+				"speed": 6.595693166564753
 			}
 		},
 		{
@@ -2470,7 +2572,8 @@
 				"pcElev": null,
 				"elev": null,
 				"time": 510,
-				"distance": 3426.0935843041875
+				"distance": 3426.0935843041875,
+				"speed": 6.728704717097055
 			}
 		},
 		{
@@ -2494,7 +2597,8 @@
 				"pcElev": null,
 				"elev": null,
 				"time": 515,
-				"distance": 3459.737192886401
+				"distance": 3459.737192886401,
+				"speed": 6.7287217164426565
 			}
 		},
 		{
@@ -2518,7 +2622,8 @@
 				"pcElev": null,
 				"elev": null,
 				"time": 520,
-				"distance": 3490.7296907024734
+				"distance": 3490.7296907024734,
+				"speed": 6.198499563214471
 			}
 		},
 		{
@@ -2542,7 +2647,8 @@
 				"pcElev": null,
 				"elev": null,
 				"time": 525,
-				"distance": 3553.076106070539
+				"distance": 3553.076106070539,
+				"speed": 12.469283073613116
 			}
 		},
 		{
@@ -2566,7 +2672,8 @@
 				"pcElev": null,
 				"elev": null,
 				"time": 530,
-				"distance": 3584.533925395351
+				"distance": 3584.533925395351,
+				"speed": 6.291563864962466
 			}
 		},
 		{
@@ -2590,7 +2697,8 @@
 				"pcElev": null,
 				"elev": null,
 				"time": 535,
-				"distance": 3618.110758633987
+				"distance": 3618.110758633987,
+				"speed": 6.715366647727213
 			}
 		},
 		{
@@ -2614,7 +2722,8 @@
 				"pcElev": null,
 				"elev": null,
 				"time": 540,
-				"distance": 3651.6876613945606
+				"distance": 3651.6876613945606,
+				"speed": 6.715380552114693
 			}
 		},
 		{
@@ -2638,7 +2747,8 @@
 				"pcElev": null,
 				"elev": null,
 				"time": 545,
-				"distance": 3680.256723503665
+				"distance": 3680.256723503665,
+				"speed": 5.713812421820861
 			}
 		},
 		{
@@ -2662,7 +2772,8 @@
 				"pcElev": null,
 				"elev": null,
 				"time": 550,
-				"distance": 3708.825837051621
+				"distance": 3708.825837051621,
+				"speed": 5.713822709591172
 			}
 		},
 		{
@@ -2686,7 +2797,8 @@
 				"pcElev": null,
 				"elev": null,
 				"time": 555,
-				"distance": 3738.6649826891257
+				"distance": 3738.6649826891257,
+				"speed": 5.9678291275009565
 			}
 		},
 		{
@@ -2710,7 +2822,8 @@
 				"pcElev": null,
 				"elev": null,
 				"time": 560,
-				"distance": 3768.5041853653192
+				"distance": 3768.5041853653192,
+				"speed": 5.967840535238704
 			}
 		},
 		{
@@ -2734,7 +2847,8 @@
 				"pcElev": null,
 				"elev": null,
 				"time": 565,
-				"distance": 3798.0058536859897
+				"distance": 3798.0058536859897,
+				"speed": 5.900333664134051
 			}
 		},
 		{
@@ -2758,7 +2872,8 @@
 				"pcElev": null,
 				"elev": null,
 				"time": 570,
-				"distance": 3860.5240337451455
+				"distance": 3860.5240337451455,
+				"speed": 12.503636011831148
 			}
 		},
 		{
@@ -2782,7 +2897,8 @@
 				"pcElev": null,
 				"elev": null,
 				"time": 575,
-				"distance": 3893.5405606147424
+				"distance": 3893.5405606147424,
+				"speed": 6.603305373919381
 			}
 		},
 		{
@@ -2806,7 +2922,8 @@
 				"pcElev": null,
 				"elev": null,
 				"time": 580,
-				"distance": 3926.1506047030543
+				"distance": 3926.1506047030543,
+				"speed": 6.52200881766241
 			}
 		},
 		{
@@ -2830,7 +2947,8 @@
 				"pcElev": null,
 				"elev": null,
 				"time": 585,
-				"distance": 3958.7607111686098
+				"distance": 3958.7607111686098,
+				"speed": 6.52202129311109
 			}
 		},
 		{
@@ -2854,7 +2972,8 @@
 				"pcElev": null,
 				"elev": null,
 				"time": 590,
-				"distance": 3989.2572055899495
+				"distance": 3989.2572055899495,
+				"speed": 6.099298884268
 			}
 		},
 		{
@@ -2878,7 +2997,8 @@
 				"pcElev": null,
 				"elev": null,
 				"time": 595,
-				"distance": 4040.156921729549
+				"distance": 4040.156921729549,
+				"speed": 10.179943227919903
 			}
 		},
 		{
@@ -2902,7 +3022,8 @@
 				"pcElev": null,
 				"elev": null,
 				"time": 600,
-				"distance": 4072.701488529864
+				"distance": 4072.701488529864,
+				"speed": 6.508913360062948
 			}
 		},
 		{
@@ -2926,7 +3047,8 @@
 				"pcElev": null,
 				"elev": null,
 				"time": 605,
-				"distance": 4097.7405752825925
+				"distance": 4097.7405752825925,
+				"speed": 5.007817350545788
 			}
 		},
 		{
@@ -2950,7 +3072,8 @@
 				"pcElev": null,
 				"elev": null,
 				"time": 610,
-				"distance": 4124.017294069298
+				"distance": 4124.017294069298,
+				"speed": 5.25534375734119
 			}
 		},
 		{
@@ -2974,7 +3097,8 @@
 				"pcElev": null,
 				"elev": null,
 				"time": 615,
-				"distance": 4153.377673379156
+				"distance": 4153.377673379156,
+				"speed": 5.872075861971387
 			}
 		},
 		{
@@ -2998,7 +3122,8 @@
 				"pcElev": null,
 				"elev": null,
 				"time": 620,
-				"distance": 4187.908523678986
+				"distance": 4187.908523678986,
+				"speed": 6.906170059966041
 			}
 		},
 		{
@@ -3022,7 +3147,8 @@
 				"pcElev": null,
 				"elev": null,
 				"time": 625,
-				"distance": 4202.6204708298965
+				"distance": 4202.6204708298965,
+				"speed": 2.942389430182094
 			}
 		},
 		{
@@ -3046,7 +3172,8 @@
 				"pcElev": null,
 				"elev": null,
 				"time": 630,
-				"distance": 4226.916148944114
+				"distance": 4226.916148944114,
+				"speed": 4.85913562284348
 			}
 		},
 		{
@@ -3070,7 +3197,8 @@
 				"pcElev": null,
 				"elev": null,
 				"time": 635,
-				"distance": 4245.0493225271
+				"distance": 4245.0493225271,
+				"speed": 3.626634716597336
 			}
 		},
 		{
@@ -3094,7 +3222,8 @@
 				"pcElev": null,
 				"elev": null,
 				"time": 640,
-				"distance": 4268.960356728521
+				"distance": 4268.960356728521,
+				"speed": 4.7822068402841795
 			}
 		},
 		{
@@ -3118,7 +3247,8 @@
 				"pcElev": null,
 				"elev": null,
 				"time": 645,
-				"distance": 4333.910151924526
+				"distance": 4333.910151924526,
+				"speed": 12.989959039200878
 			}
 		},
 		{
@@ -3142,7 +3272,8 @@
 				"pcElev": null,
 				"elev": null,
 				"time": 650,
-				"distance": 4346.1999247493195
+				"distance": 4346.1999247493195,
+				"speed": 2.457954564958767
 			}
 		},
 		{
@@ -3166,7 +3297,8 @@
 				"pcElev": null,
 				"elev": null,
 				"time": 655,
-				"distance": 4354.413293466452
+				"distance": 4354.413293466452,
+				"speed": 1.6426737434265355
 			}
 		},
 		{
@@ -3190,7 +3322,8 @@
 				"pcElev": null,
 				"elev": null,
 				"time": 660,
-				"distance": 4382.288056838299
+				"distance": 4382.288056838299,
+				"speed": 5.574952674369407
 			}
 		},
 		{
@@ -3214,7 +3347,8 @@
 				"pcElev": null,
 				"elev": null,
 				"time": 665,
-				"distance": 4416.643542259664
+				"distance": 4416.643542259664,
+				"speed": 6.871097084272996
 			}
 		},
 		{
@@ -3238,7 +3372,8 @@
 				"pcElev": null,
 				"elev": null,
 				"time": 670,
-				"distance": 4454.804902897465
+				"distance": 4454.804902897465,
+				"speed": 7.632272127560104
 			}
 		},
 		{
@@ -3262,7 +3397,8 @@
 				"pcElev": null,
 				"elev": null,
 				"time": 675,
-				"distance": 4471.606190469913
+				"distance": 4471.606190469913,
+				"speed": 3.360257514489608
 			}
 		},
 		{
@@ -3286,7 +3422,8 @@
 				"pcElev": null,
 				"elev": null,
 				"time": 680,
-				"distance": 4498.14346464889
+				"distance": 4498.14346464889,
+				"speed": 5.307454835795349
 			}
 		},
 		{
@@ -3310,7 +3447,8 @@
 				"pcElev": null,
 				"elev": null,
 				"time": 685,
-				"distance": 4524.680750581966
+				"distance": 4524.680750581966,
+				"speed": 5.307457186615265
 			}
 		},
 		{
@@ -3334,7 +3472,8 @@
 				"pcElev": null,
 				"elev": null,
 				"time": 690,
-				"distance": 4557.893539527782
+				"distance": 4557.893539527782,
+				"speed": 6.642557789163197
 			}
 		},
 		{
@@ -3358,7 +3497,8 @@
 				"pcElev": null,
 				"elev": null,
 				"time": 695,
-				"distance": 4609.049229582215
+				"distance": 4609.049229582215,
+				"speed": 10.2311380108866
 			}
 		},
 		{
@@ -3382,7 +3522,8 @@
 				"pcElev": null,
 				"elev": null,
 				"time": 700,
-				"distance": 4644.135584772471
+				"distance": 4644.135584772471,
+				"speed": 7.017271038051123
 			}
 		},
 		{
@@ -3406,7 +3547,8 @@
 				"pcElev": null,
 				"elev": null,
 				"time": 705,
-				"distance": 4685.94682773978
+				"distance": 4685.94682773978,
+				"speed": 8.36224859346177
 			}
 		},
 		{
@@ -3430,7 +3572,8 @@
 				"pcElev": null,
 				"elev": null,
 				"time": 710,
-				"distance": 4710.673436651631
+				"distance": 4710.673436651631,
+				"speed": 4.945321782370233
 			}
 		},
 		{
@@ -3454,7 +3597,8 @@
 				"pcElev": null,
 				"elev": null,
 				"time": 715,
-				"distance": 4734.434613821906
+				"distance": 4734.434613821906,
+				"speed": 4.752235434054927
 			}
 		},
 		{
@@ -3478,7 +3622,8 @@
 				"pcElev": null,
 				"elev": null,
 				"time": 720,
-				"distance": 4784.329148151139
+				"distance": 4784.329148151139,
+				"speed": 9.978906865846472
 			}
 		},
 		{
@@ -3502,7 +3647,8 @@
 				"pcElev": null,
 				"elev": null,
 				"time": 725,
-				"distance": 4810.547587908512
+				"distance": 4810.547587908512,
+				"speed": 5.243687951474658
 			}
 		},
 		{
@@ -3526,7 +3672,8 @@
 				"pcElev": null,
 				"elev": null,
 				"time": 730,
-				"distance": 4837.288853583918
+				"distance": 4837.288853583918,
+				"speed": 5.348253135081396
 			}
 		},
 		{
@@ -3550,7 +3697,8 @@
 				"pcElev": null,
 				"elev": null,
 				"time": 735,
-				"distance": 4897.853756821824
+				"distance": 4897.853756821824,
+				"speed": 12.112980647581196
 			}
 		},
 		{
@@ -3574,7 +3722,8 @@
 				"pcElev": null,
 				"elev": null,
 				"time": 740,
-				"distance": 4916.890499422612
+				"distance": 4916.890499422612,
+				"speed": 3.807348520157512
 			}
 		},
 		{
@@ -3598,7 +3747,8 @@
 				"pcElev": null,
 				"elev": null,
 				"time": 745,
-				"distance": 4943.255356075676
+				"distance": 4943.255356075676,
+				"speed": 5.272971330612746
 			}
 		},
 		{
@@ -3622,7 +3772,8 @@
 				"pcElev": null,
 				"elev": null,
 				"time": 750,
-				"distance": 4994.750383038613
+				"distance": 4994.750383038613,
+				"speed": 10.299005392587404
 			}
 		},
 		{
@@ -3646,7 +3797,8 @@
 				"pcElev": null,
 				"elev": null,
 				"time": 755,
-				"distance": 5019.882887328593
+				"distance": 5019.882887328593,
+				"speed": 5.026500857995994
 			}
 		},
 		{
@@ -3670,7 +3822,8 @@
 				"pcElev": null,
 				"elev": null,
 				"time": 760,
-				"distance": 5050.922862151696
+				"distance": 5050.922862151696,
+				"speed": 6.207994964620618
 			}
 		},
 		{
@@ -3694,7 +3847,8 @@
 				"pcElev": null,
 				"elev": null,
 				"time": 765,
-				"distance": 5081.962837655444
+				"distance": 5081.962837655444,
+				"speed": 6.207995100749527
 			}
 		},
 		{
@@ -3718,7 +3872,8 @@
 				"pcElev": null,
 				"elev": null,
 				"time": 770,
-				"distance": 5109.353496667139
+				"distance": 5109.353496667139,
+				"speed": 5.478131802338984
 			}
 		},
 		{
@@ -3742,7 +3897,8 @@
 				"pcElev": null,
 				"elev": null,
 				"time": 775,
-				"distance": 5158.816413600106
+				"distance": 5158.816413600106,
+				"speed": 9.892583386593413
 			}
 		},
 		{
@@ -3766,7 +3922,8 @@
 				"pcElev": null,
 				"elev": null,
 				"time": 780,
-				"distance": 5196.679152307509
+				"distance": 5196.679152307509,
+				"speed": 7.572547741480625
 			}
 		},
 		{
@@ -3790,7 +3947,8 @@
 				"pcElev": null,
 				"elev": null,
 				"time": 785,
-				"distance": 5233.0787189363455
+				"distance": 5233.0787189363455,
+				"speed": 7.279913325767358
 			}
 		},
 		{
@@ -3814,7 +3972,8 @@
 				"pcElev": null,
 				"elev": null,
 				"time": 790,
-				"distance": 5253.831181285051
+				"distance": 5253.831181285051,
+				"speed": 4.15049246974108
 			}
 		},
 		{
@@ -3838,7 +3997,8 @@
 				"pcElev": null,
 				"elev": null,
 				"time": 795,
-				"distance": 5280.802352339777
+				"distance": 5280.802352339777,
+				"speed": 5.394234210945195
 			}
 		},
 		{
@@ -3862,7 +4022,8 @@
 				"pcElev": null,
 				"elev": null,
 				"time": 800,
-				"distance": 5307.773537904959
+				"distance": 5307.773537904959,
+				"speed": 5.394237113036362
 			}
 		},
 		{
@@ -3886,7 +4047,8 @@
 				"pcElev": null,
 				"elev": null,
 				"time": 805,
-				"distance": 5336.658279083159
+				"distance": 5336.658279083159,
+				"speed": 5.7769482356399156
 			}
 		},
 		{
@@ -3910,7 +4072,8 @@
 				"pcElev": null,
 				"elev": null,
 				"time": 810,
-				"distance": 5392.34361051365
+				"distance": 5392.34361051365,
+				"speed": 11.13706628609825
 			}
 		},
 		{
@@ -3934,7 +4097,8 @@
 				"pcElev": null,
 				"elev": null,
 				"time": 815,
-				"distance": 5419.163538909876
+				"distance": 5419.163538909876,
+				"speed": 5.363985679245098
 			}
 		},
 		{
@@ -3958,7 +4122,8 @@
 				"pcElev": null,
 				"elev": null,
 				"time": 820,
-				"distance": 5447.710677159559
+				"distance": 5447.710677159559,
+				"speed": 5.70942764993664
 			}
 		},
 		{
@@ -3982,7 +4147,8 @@
 				"pcElev": null,
 				"elev": null,
 				"time": 825,
-				"distance": 5476.257845026255
+				"distance": 5476.257845026255,
+				"speed": 5.7094335733392425
 			}
 		},
 		{
@@ -4006,7 +4172,8 @@
 				"pcElev": null,
 				"elev": null,
 				"time": 830,
-				"distance": 5505.606616428321
+				"distance": 5505.606616428321,
+				"speed": 5.869754280413213
 			}
 		},
 		{
@@ -4030,7 +4197,8 @@
 				"pcElev": null,
 				"elev": null,
 				"time": 835,
-				"distance": 5565.772143374489
+				"distance": 5565.772143374489,
+				"speed": 12.033105389233672
 			}
 		},
 		{
@@ -4054,7 +4222,8 @@
 				"pcElev": null,
 				"elev": null,
 				"time": 840,
-				"distance": 5597.05930547217
+				"distance": 5597.05930547217,
+				"speed": 6.257432419536323
 			}
 		},
 		{
@@ -4078,7 +4247,8 @@
 				"pcElev": null,
 				"elev": null,
 				"time": 845,
-				"distance": 5628.437071949514
+				"distance": 5628.437071949514,
+				"speed": 6.275553295468748
 			}
 		},
 		{
@@ -4102,7 +4272,8 @@
 				"pcElev": null,
 				"elev": null,
 				"time": 850,
-				"distance": 5659.814888199436
+				"distance": 5659.814888199436,
+				"speed": 6.275563249984483
 			}
 		},
 		{
@@ -4126,7 +4297,8 @@
 				"pcElev": null,
 				"elev": null,
 				"time": 855,
-				"distance": 5687.712700229013
+				"distance": 5687.712700229013,
+				"speed": 5.57956240591546
 			}
 		},
 		{
@@ -4150,7 +4322,8 @@
 				"pcElev": null,
 				"elev": null,
 				"time": 860,
-				"distance": 5739.108778244208
+				"distance": 5739.108778244208,
+				"speed": 10.27921560303909
 			}
 		},
 		{
@@ -4174,7 +4347,8 @@
 				"pcElev": null,
 				"elev": null,
 				"time": 865,
-				"distance": 5769.780336214889
+				"distance": 5769.780336214889,
+				"speed": 6.134311594136163
 			}
 		},
 		{
@@ -4198,7 +4372,8 @@
 				"pcElev": null,
 				"elev": null,
 				"time": 870,
-				"distance": 5781.835060572448
+				"distance": 5781.835060572448,
+				"speed": 2.410944871511897
 			}
 		},
 		{
@@ -4222,7 +4397,8 @@
 				"pcElev": null,
 				"elev": null,
 				"time": 875,
-				"distance": 5807.316470451861
+				"distance": 5807.316470451861,
+				"speed": 5.096281975882574
 			}
 		},
 		{
@@ -4246,7 +4422,8 @@
 				"pcElev": null,
 				"elev": null,
 				"time": 880,
-				"distance": 5847.524302555592
+				"distance": 5847.524302555592,
+				"speed": 8.0415664207462
 			}
 		},
 		{
@@ -4270,7 +4447,8 @@
 				"pcElev": null,
 				"elev": null,
 				"time": 885,
-				"distance": 5889.533928879326
+				"distance": 5889.533928879326,
+				"speed": 8.401925264746684
 			}
 		},
 		{
@@ -4294,7 +4472,8 @@
 				"pcElev": null,
 				"elev": null,
 				"time": 890,
-				"distance": 5932.802246628792
+				"distance": 5932.802246628792,
+				"speed": 8.653663549893336
 			}
 		},
 		{
@@ -4318,7 +4497,8 @@
 				"pcElev": null,
 				"elev": null,
 				"time": 895,
-				"distance": 5955.411087288827
+				"distance": 5955.411087288827,
+				"speed": 4.521768132007008
 			}
 		},
 		{
@@ -4342,7 +4522,8 @@
 				"pcElev": null,
 				"elev": null,
 				"time": 900,
-				"distance": 5979.522499969945
+				"distance": 5979.522499969945,
+				"speed": 4.822282536223569
 			}
 		},
 		{
@@ -4366,7 +4547,8 @@
 				"pcElev": null,
 				"elev": null,
 				"time": 905,
-				"distance": 6024.401705051406
+				"distance": 6024.401705051406,
+				"speed": 8.975841016292103
 			}
 		},
 		{
@@ -4390,7 +4572,8 @@
 				"pcElev": null,
 				"elev": null,
 				"time": 910,
-				"distance": 6063.268397617536
+				"distance": 6063.268397617536,
+				"speed": 7.773338513225923
 			}
 		},
 		{
@@ -4414,7 +4597,8 @@
 				"pcElev": null,
 				"elev": null,
 				"time": 915,
-				"distance": 6097.836003804315
+				"distance": 6097.836003804315,
+				"speed": 6.913521237355705
 			}
 		},
 		{
@@ -4438,7 +4622,8 @@
 				"pcElev": null,
 				"elev": null,
 				"time": 920,
-				"distance": 6124.993876627661
+				"distance": 6124.993876627661,
+				"speed": 5.431574564669239
 			}
 		},
 		{
@@ -4462,7 +4647,8 @@
 				"pcElev": null,
 				"elev": null,
 				"time": 925,
-				"distance": 6153.79446612544
+				"distance": 6153.79446612544,
+				"speed": 5.7601178995557625
 			}
 		},
 		{
@@ -4486,7 +4672,8 @@
 				"pcElev": null,
 				"elev": null,
 				"time": 930,
-				"distance": 6183.506321354308
+				"distance": 6183.506321354308,
+				"speed": 5.942371045773603
 			}
 		},
 		{
@@ -4510,7 +4697,8 @@
 				"pcElev": null,
 				"elev": null,
 				"time": 935,
-				"distance": 6240.885482044094
+				"distance": 6240.885482044094,
+				"speed": 11.475832137957159
 			}
 		},
 		{
@@ -4534,7 +4722,8 @@
 				"pcElev": null,
 				"elev": null,
 				"time": 940,
-				"distance": 6256.884119570428
+				"distance": 6256.884119570428,
+				"speed": 3.199727505266859
 			}
 		},
 		{
@@ -4558,7 +4747,8 @@
 				"pcElev": null,
 				"elev": null,
 				"time": 945,
-				"distance": 6278.098416320209
+				"distance": 6278.098416320209,
+				"speed": 4.242859349956295
 			}
 		},
 		{
@@ -4582,7 +4772,8 @@
 				"pcElev": null,
 				"elev": null,
 				"time": 950,
-				"distance": 6319.04471469475
+				"distance": 6319.04471469475,
+				"speed": 8.189259674908154
 			}
 		},
 		{
@@ -4606,7 +4797,8 @@
 				"pcElev": null,
 				"elev": null,
 				"time": 955,
-				"distance": 6357.548382827509
+				"distance": 6357.548382827509,
+				"speed": 7.700733626551861
 			}
 		},
 		{
@@ -4630,7 +4822,8 @@
 				"pcElev": null,
 				"elev": null,
 				"time": 960,
-				"distance": 6388.375186052986
+				"distance": 6388.375186052986,
+				"speed": 6.165360645095273
 			}
 		},
 		{
@@ -4654,7 +4847,8 @@
 				"pcElev": null,
 				"elev": null,
 				"time": 965,
-				"distance": 6433.810690182976
+				"distance": 6433.810690182976,
+				"speed": 9.087100825998057
 			}
 		},
 		{
@@ -4678,7 +4872,8 @@
 				"pcElev": null,
 				"elev": null,
 				"time": 970,
-				"distance": 6449.384570002203
+				"distance": 6449.384570002203,
+				"speed": 3.114775963845476
 			}
 		},
 		{
@@ -4702,7 +4897,8 @@
 				"pcElev": null,
 				"elev": null,
 				"time": 975,
-				"distance": 6473.714385863081
+				"distance": 6473.714385863081,
+				"speed": 4.865963172175562
 			}
 		},
 		{
@@ -4726,7 +4922,8 @@
 				"pcElev": null,
 				"elev": null,
 				"time": 980,
-				"distance": 6525.329779583349
+				"distance": 6525.329779583349,
+				"speed": 10.323078744053596
 			}
 		},
 		{
@@ -4750,7 +4947,8 @@
 				"pcElev": null,
 				"elev": null,
 				"time": 985,
-				"distance": 6553.641000963909
+				"distance": 6553.641000963909,
+				"speed": 5.662244276112227
 			}
 		},
 		{
@@ -4774,7 +4972,8 @@
 				"pcElev": null,
 				"elev": null,
 				"time": 990,
-				"distance": 6582.006933057173
+				"distance": 6582.006933057173,
+				"speed": 5.673186418652795
 			}
 		},
 		{
@@ -4798,7 +4997,8 @@
 				"pcElev": null,
 				"elev": null,
 				"time": 995,
-				"distance": 6610.372810540918
+				"distance": 6610.372810540918,
+				"speed": 5.673175496748933
 			}
 		},
 		{
@@ -4822,7 +5022,8 @@
 				"pcElev": null,
 				"elev": null,
 				"time": 1000,
-				"distance": 6640.5838827955795
+				"distance": 6640.5838827955795,
+				"speed": 6.042214450932297
 			}
 		},
 		{
@@ -4846,7 +5047,8 @@
 				"pcElev": null,
 				"elev": null,
 				"time": 1005,
-				"distance": 6670.794893899076
+				"distance": 6670.794893899076,
+				"speed": 6.042202220699174
 			}
 		},
 		{
@@ -4870,7 +5072,8 @@
 				"pcElev": null,
 				"elev": null,
 				"time": 1010,
-				"distance": 6704.76414792337
+				"distance": 6704.76414792337,
+				"speed": 6.793850804858861
 			}
 		},
 		{
@@ -4894,7 +5097,8 @@
 				"pcElev": null,
 				"elev": null,
 				"time": 1015,
-				"distance": 6738.7333170396
+				"distance": 6738.7333170396,
+				"speed": 6.793833823245988
 			}
 		},
 		{
@@ -4918,7 +5122,8 @@
 				"pcElev": null,
 				"elev": null,
 				"time": 1020,
-				"distance": 6772.782555173226
+				"distance": 6772.782555173226,
+				"speed": 6.809847626725198
 			}
 		},
 		{
@@ -4942,7 +5147,8 @@
 				"pcElev": null,
 				"elev": null,
 				"time": 1025,
-				"distance": 6837.012000092352
+				"distance": 6837.012000092352,
+				"speed": 12.845888983825185
 			}
 		},
 		{
@@ -4966,7 +5172,8 @@
 				"pcElev": null,
 				"elev": null,
 				"time": 1030,
-				"distance": 6882.410405458139
+				"distance": 6882.410405458139,
+				"speed": 9.07968107315748
 			}
 		},
 		{
@@ -4990,7 +5197,8 @@
 				"pcElev": null,
 				"elev": null,
 				"time": 1035,
-				"distance": 6906.495070521701
+				"distance": 6906.495070521701,
+				"speed": 4.816933012712299
 			}
 		},
 		{
@@ -5014,7 +5222,8 @@
 				"pcElev": null,
 				"elev": null,
 				"time": 1040,
-				"distance": 6933.132022782169
+				"distance": 6933.132022782169,
+				"speed": 5.327390452093655
 			}
 		},
 		{
@@ -5038,7 +5247,8 @@
 				"pcElev": null,
 				"elev": null,
 				"time": 1045,
-				"distance": 6947.576063802295
+				"distance": 6947.576063802295,
+				"speed": 2.888808204025139
 			}
 		},
 		{
@@ -5062,7 +5272,8 @@
 				"pcElev": null,
 				"elev": null,
 				"time": 1050,
-				"distance": 6984.018354285417
+				"distance": 6984.018354285417,
+				"speed": 7.288458096624538
 			}
 		},
 		{
@@ -5086,7 +5297,8 @@
 				"pcElev": null,
 				"elev": null,
 				"time": 1055,
-				"distance": 7012.865721299782
+				"distance": 7012.865721299782,
+				"speed": 5.769473402872924
 			}
 		},
 		{
@@ -5110,7 +5322,8 @@
 				"pcElev": null,
 				"elev": null,
 				"time": 1060,
-				"distance": 7038.383192955044
+				"distance": 7038.383192955044,
+				"speed": 5.103494331052342
 			}
 		},
 		{
@@ -5134,7 +5347,8 @@
 				"pcElev": null,
 				"elev": null,
 				"time": 1065,
-				"distance": 7076.823003523743
+				"distance": 7076.823003523743,
+				"speed": 7.687962113739755
 			}
 		},
 		{
@@ -5158,7 +5372,8 @@
 				"pcElev": null,
 				"elev": null,
 				"time": 1070,
-				"distance": 7099.018730713904
+				"distance": 7099.018730713904,
+				"speed": 4.43914543803219
 			}
 		},
 		{
@@ -5182,7 +5397,8 @@
 				"pcElev": null,
 				"elev": null,
 				"time": 1075,
-				"distance": 7126.69157110605
+				"distance": 7126.69157110605,
+				"speed": 5.534568078429265
 			}
 		},
 		{
@@ -5206,7 +5422,8 @@
 				"pcElev": null,
 				"elev": null,
 				"time": 1080,
-				"distance": 7147.627531497578
+				"distance": 7147.627531497578,
+				"speed": 4.187192078305612
 			}
 		},
 		{
@@ -5230,7 +5447,8 @@
 				"pcElev": null,
 				"elev": null,
 				"time": 1085,
-				"distance": 7179.969525538355
+				"distance": 7179.969525538355,
+				"speed": 6.468398808155331
 			}
 		},
 		{
@@ -5254,7 +5472,8 @@
 				"pcElev": null,
 				"elev": null,
 				"time": 1090,
-				"distance": 7212.311554275825
+				"distance": 7212.311554275825,
+				"speed": 6.468405747494093
 			}
 		},
 		{
@@ -5278,7 +5497,8 @@
 				"pcElev": null,
 				"elev": null,
 				"time": 1095,
-				"distance": 7243.699520003004
+				"distance": 7243.699520003004,
+				"speed": 6.277593145435846
 			}
 		},
 		{
@@ -5302,7 +5522,8 @@
 				"pcElev": null,
 				"elev": null,
 				"time": 1100,
-				"distance": 7299.625660522698
+				"distance": 7299.625660522698,
+				"speed": 11.185228103938805
 			}
 		},
 		{
@@ -5326,7 +5547,8 @@
 				"pcElev": null,
 				"elev": null,
 				"time": 1105,
-				"distance": 7334.248012284882
+				"distance": 7334.248012284882,
+				"speed": 6.92447035243669
 			}
 		},
 		{
@@ -5350,7 +5572,8 @@
 				"pcElev": null,
 				"elev": null,
 				"time": 1110,
-				"distance": 7368.284030584379
+				"distance": 7368.284030584379,
+				"speed": 6.807203659899514
 			}
 		},
 		{
@@ -5374,7 +5597,8 @@
 				"pcElev": null,
 				"elev": null,
 				"time": 1115,
-				"distance": 7387.213184961361
+				"distance": 7387.213184961361,
+				"speed": 3.785830875396362
 			}
 		},
 		{
@@ -5398,7 +5622,8 @@
 				"pcElev": null,
 				"elev": null,
 				"time": 1120,
-				"distance": 7412.847589122428
+				"distance": 7412.847589122428,
+				"speed": 5.126880832213423
 			}
 		},
 		{
@@ -5422,7 +5647,8 @@
 				"pcElev": null,
 				"elev": null,
 				"time": 1125,
-				"distance": 7451.357885008439
+				"distance": 7451.357885008439,
+				"speed": 7.702059177202048
 			}
 		},
 		{
@@ -5446,7 +5672,8 @@
 				"pcElev": null,
 				"elev": null,
 				"time": 1130,
-				"distance": 7477.367479276521
+				"distance": 7477.367479276521,
+				"speed": 5.201918853616598
 			}
 		},
 		{
@@ -5470,7 +5697,8 @@
 				"pcElev": null,
 				"elev": null,
 				"time": 1135,
-				"distance": 7501.890329576729
+				"distance": 7501.890329576729,
+				"speed": 4.904570060041472
 			}
 		},
 		{
@@ -5494,7 +5722,8 @@
 				"pcElev": null,
 				"elev": null,
 				"time": 1140,
-				"distance": 7543.382621274479
+				"distance": 7543.382621274479,
+				"speed": 8.29845833955009
 			}
 		},
 		{
@@ -5518,7 +5747,8 @@
 				"pcElev": null,
 				"elev": null,
 				"time": 1145,
-				"distance": 7574.238842743768
+				"distance": 7574.238842743768,
+				"speed": 6.171244293857872
 			}
 		},
 		{
@@ -5542,7 +5772,8 @@
 				"pcElev": null,
 				"elev": null,
 				"time": 1150,
-				"distance": 7608.468977895243
+				"distance": 7608.468977895243,
+				"speed": 6.846027030294996
 			}
 		},
 		{
@@ -5566,7 +5797,8 @@
 				"pcElev": null,
 				"elev": null,
 				"time": 1155,
-				"distance": 7642.699115416915
+				"distance": 7642.699115416915,
+				"speed": 6.846027504334406
 			}
 		},
 		{
@@ -5590,7 +5822,8 @@
 				"pcElev": null,
 				"elev": null,
 				"time": 1160,
-				"distance": 7670.567613342317
+				"distance": 7670.567613342317,
+				"speed": 5.5736995850802264
 			}
 		},
 		{
@@ -5614,7 +5847,8 @@
 				"pcElev": null,
 				"elev": null,
 				"time": 1165,
-				"distance": 7721.661803997973
+				"distance": 7721.661803997973,
+				"speed": 10.218838131131289
 			}
 		},
 		{
@@ -5638,7 +5872,8 @@
 				"pcElev": null,
 				"elev": null,
 				"time": 1170,
-				"distance": 7749.700457539451
+				"distance": 7749.700457539451,
+				"speed": 5.607730708295689
 			}
 		},
 		{
@@ -5662,7 +5897,8 @@
 				"pcElev": null,
 				"elev": null,
 				"time": 1175,
-				"distance": 7760.751744768903
+				"distance": 7760.751744768903,
+				"speed": 2.2102574458904685
 			}
 		},
 		{
@@ -5686,7 +5922,8 @@
 				"pcElev": null,
 				"elev": null,
 				"time": 1180,
-				"distance": 7793.711576437499
+				"distance": 7793.711576437499,
+				"speed": 6.591966333719213
 			}
 		},
 		{
@@ -5710,7 +5947,8 @@
 				"pcElev": null,
 				"elev": null,
 				"time": 1185,
-				"distance": 7820.431377923868
+				"distance": 7820.431377923868,
+				"speed": 5.343960297273834
 			}
 		},
 		{
@@ -5734,7 +5972,8 @@
 				"pcElev": null,
 				"elev": null,
 				"time": 1190,
-				"distance": 7853.273068421328
+				"distance": 7853.273068421328,
+				"speed": 6.568338099491946
 			}
 		},
 		{
@@ -5758,7 +5997,8 @@
 				"pcElev": null,
 				"elev": null,
 				"time": 1195,
-				"distance": 7886.114782766399
+				"distance": 7886.114782766399,
+				"speed": 6.56834286901416
 			}
 		},
 		{
@@ -5782,7 +6022,8 @@
 				"pcElev": null,
 				"elev": null,
 				"time": 1200,
-				"distance": 7920.468009193046
+				"distance": 7920.468009193046,
+				"speed": 6.870645285329327
 			}
 		},
 		{
@@ -5806,7 +6047,8 @@
 				"pcElev": null,
 				"elev": null,
 				"time": 1205,
-				"distance": 7954.821269460073
+				"distance": 7954.821269460073,
+				"speed": 6.870652053405418
 			}
 		},
 		{
@@ -5830,7 +6072,8 @@
 				"pcElev": null,
 				"elev": null,
 				"time": 1210,
-				"distance": 7990.675767332114
+				"distance": 7990.675767332114,
+				"speed": 7.170899574408186
 			}
 		},
 		{
@@ -5854,7 +6097,8 @@
 				"pcElev": null,
 				"elev": null,
 				"time": 1215,
-				"distance": 8026.5303170333855
+				"distance": 8026.5303170333855,
+				"speed": 7.170909940254188
 			}
 		},
 		{
@@ -5878,7 +6122,8 @@
 				"pcElev": null,
 				"elev": null,
 				"time": 1220,
-				"distance": 8058.205419307555
+				"distance": 8058.205419307555,
+				"speed": 6.3350204548338365
 			}
 		},
 		{
@@ -5902,7 +6147,8 @@
 				"pcElev": null,
 				"elev": null,
 				"time": 1225,
-				"distance": 8094.095340206362
+				"distance": 8094.095340206362,
+				"speed": 7.17798417976164
 			}
 		},
 		{
@@ -5926,7 +6172,8 @@
 				"pcElev": null,
 				"elev": null,
 				"time": 1230,
-				"distance": 8134.370333766001
+				"distance": 8134.370333766001,
+				"speed": 8.0549987119276
 			}
 		},
 		{
@@ -5950,7 +6197,8 @@
 				"pcElev": null,
 				"elev": null,
 				"time": 1235,
-				"distance": 8151.244832034037
+				"distance": 8151.244832034037,
+				"speed": 3.3748996536072604
 			}
 		},
 		{
@@ -5974,7 +6222,8 @@
 				"pcElev": null,
 				"elev": null,
 				"time": 1240,
-				"distance": 8181.5128007329495
+				"distance": 8181.5128007329495,
+				"speed": 6.053593739782357
 			}
 		},
 		{
@@ -5998,7 +6247,8 @@
 				"pcElev": null,
 				"elev": null,
 				"time": 1245,
-				"distance": 8211.780780983192
+				"distance": 8211.780780983192,
+				"speed": 6.053596050048357
 			}
 		},
 		{
@@ -6022,7 +6272,8 @@
 				"pcElev": null,
 				"elev": null,
 				"time": 1250,
-				"distance": 8248.923774296776
+				"distance": 8248.923774296776,
+				"speed": 7.428598662716807
 			}
 		},
 		{
@@ -6046,7 +6297,8 @@
 				"pcElev": null,
 				"elev": null,
 				"time": 1255,
-				"distance": 8286.06681530492
+				"distance": 8286.06681530492,
+				"speed": 7.428608201628474
 			}
 		},
 		{
@@ -6070,7 +6322,8 @@
 				"pcElev": null,
 				"elev": null,
 				"time": 1260,
-				"distance": 8286.06681530492
+				"distance": 8286.06681530492,
+				"speed": 0
 			}
 		},
 		{
@@ -6094,7 +6347,8 @@
 				"pcElev": null,
 				"elev": null,
 				"time": 1265,
-				"distance": 8325.162211065412
+				"distance": 8325.162211065412,
+				"speed": 7.819079152098356
 			}
 		},
 		{
@@ -6118,7 +6372,8 @@
 				"pcElev": null,
 				"elev": null,
 				"time": 1270,
-				"distance": 8364.257672652828
+				"distance": 8364.257672652828,
+				"speed": 7.819092317483386
 			}
 		},
 		{
@@ -6142,7 +6397,8 @@
 				"pcElev": null,
 				"elev": null,
 				"time": 1275,
-				"distance": 8406.15794141011
+				"distance": 8406.15794141011,
+				"speed": 8.380053751456753
 			}
 		},
 		{
@@ -6166,7 +6422,8 @@
 				"pcElev": null,
 				"elev": null,
 				"time": 1280,
-				"distance": 8448.058298093449
+				"distance": 8448.058298093449,
+				"speed": 8.380071336667587
 			}
 		},
 		{
@@ -6190,7 +6447,8 @@
 				"pcElev": null,
 				"elev": null,
 				"time": 1285,
-				"distance": 8488.236519901133
+				"distance": 8488.236519901133,
+				"speed": 8.035644361536773
 			}
 		},
 		{
@@ -6214,7 +6472,8 @@
 				"pcElev": null,
 				"elev": null,
 				"time": 1290,
-				"distance": 8528.414822069717
+				"distance": 8528.414822069717,
+				"speed": 8.035660433716696
 			}
 		},
 		{
@@ -6238,7 +6497,8 @@
 				"pcElev": null,
 				"elev": null,
 				"time": 1295,
-				"distance": 8528.414822069717
+				"distance": 8528.414822069717,
+				"speed": 0
 			}
 		},
 		{
@@ -6262,7 +6522,8 @@
 				"pcElev": null,
 				"elev": null,
 				"time": 1300,
-				"distance": 8568.6447777209
+				"distance": 8568.6447777209,
+				"speed": 8.045991130236594
 			}
 		},
 		{
@@ -6286,7 +6547,8 @@
 				"pcElev": null,
 				"elev": null,
 				"time": 1305,
-				"distance": 8608.87480303832
+				"distance": 8608.87480303832,
+				"speed": 8.046005063483845
 			}
 		},
 		{
@@ -6310,7 +6572,8 @@
 				"pcElev": null,
 				"elev": null,
 				"time": 1310,
-				"distance": 8650.662895367313
+				"distance": 8650.662895367313,
+				"speed": 8.357618465798671
 			}
 		},
 		{
@@ -6334,7 +6597,8 @@
 				"pcElev": null,
 				"elev": null,
 				"time": 1315,
-				"distance": 8692.451059439656
+				"distance": 8692.451059439656,
+				"speed": 8.357632814468573
 			}
 		},
 		{
@@ -6358,7 +6622,8 @@
 				"pcElev": null,
 				"elev": null,
 				"time": 1320,
-				"distance": 8730.090127131005
+				"distance": 8730.090127131005,
+				"speed": 7.527813538269903
 			}
 		},
 		{
@@ -6382,7 +6647,8 @@
 				"pcElev": null,
 				"elev": null,
 				"time": 1325,
-				"distance": 8767.729201852839
+				"distance": 8767.729201852839,
+				"speed": 7.527814944366881
 			}
 		},
 		{
@@ -6406,7 +6672,8 @@
 				"pcElev": null,
 				"elev": null,
 				"time": 1330,
-				"distance": 8797.314578311685
+				"distance": 8797.314578311685,
+				"speed": 5.917075291769232
 			}
 		},
 		{
@@ -6430,7 +6697,8 @@
 				"pcElev": null,
 				"elev": null,
 				"time": 1335,
-				"distance": 8840.326538418192
+				"distance": 8840.326538418192,
+				"speed": 8.602392021301359
 			}
 		},
 		{
@@ -6454,7 +6722,8 @@
 				"pcElev": null,
 				"elev": null,
 				"time": 1340,
-				"distance": 8853.227609396585
+				"distance": 8853.227609396585,
+				"speed": 2.5802141956784728
 			}
 		},
 		{
@@ -6478,7 +6747,8 @@
 				"pcElev": null,
 				"elev": null,
 				"time": 1345,
-				"distance": 8892.143145384944
+				"distance": 8892.143145384944,
+				"speed": 7.7831071976718365
 			}
 		},
 		{
@@ -6502,7 +6772,8 @@
 				"pcElev": null,
 				"elev": null,
 				"time": 1350,
-				"distance": 8918.128952641238
+				"distance": 8918.128952641238,
+				"speed": 5.197161451258931
 			}
 		},
 		{
@@ -6526,7 +6797,8 @@
 				"pcElev": null,
 				"elev": null,
 				"time": 1355,
-				"distance": 8952.544649112513
+				"distance": 8952.544649112513,
+				"speed": 6.883139294254792
 			}
 		},
 		{
@@ -6550,7 +6822,8 @@
 				"pcElev": null,
 				"elev": null,
 				"time": 1360,
-				"distance": 8986.960272993849
+				"distance": 8986.960272993849,
+				"speed": 6.883124776267124
 			}
 		},
 		{
@@ -6574,7 +6847,8 @@
 				"pcElev": null,
 				"elev": null,
 				"time": 1365,
-				"distance": 9026.229487123777
+				"distance": 9026.229487123777,
+				"speed": 7.8538428259856445
 			}
 		},
 		{
@@ -6598,7 +6872,8 @@
 				"pcElev": null,
 				"elev": null,
 				"time": 1370,
-				"distance": 9065.498607072963
+				"distance": 9065.498607072963,
+				"speed": 7.853823989837183
 			}
 		},
 		{
@@ -6622,7 +6897,8 @@
 				"pcElev": null,
 				"elev": null,
 				"time": 1375,
-				"distance": 9065.498607072963
+				"distance": 9065.498607072963,
+				"speed": 0
 			}
 		},
 		{
@@ -6646,7 +6922,8 @@
 				"pcElev": null,
 				"elev": null,
 				"time": 1380,
-				"distance": 9105.760774138806
+				"distance": 9105.760774138806,
+				"speed": 8.052433413168693
 			}
 		},
 		{
@@ -6670,7 +6947,8 @@
 				"pcElev": null,
 				"elev": null,
 				"time": 1385,
-				"distance": 9146.022864445145
+				"distance": 9146.022864445145,
+				"speed": 8.052418061268062
 			}
 		},
 		{
@@ -6694,7 +6972,8 @@
 				"pcElev": null,
 				"elev": null,
 				"time": 1390,
-				"distance": 9180.60555779564
+				"distance": 9180.60555779564,
+				"speed": 6.916538670098911
 			}
 		},
 		{
@@ -6718,7 +6997,8 @@
 				"pcElev": null,
 				"elev": null,
 				"time": 1395,
-				"distance": 9243.305696215599
+				"distance": 9243.305696215599,
+				"speed": 12.540027683991848
 			}
 		},
 		{
@@ -6742,7 +7022,8 @@
 				"pcElev": null,
 				"elev": null,
 				"time": 1400,
-				"distance": 9271.538522469436
+				"distance": 9271.538522469436,
+				"speed": 5.64656525076737
 			}
 		},
 		{
@@ -6766,7 +7047,8 @@
 				"pcElev": null,
 				"elev": null,
 				"time": 1405,
-				"distance": 9299.269296645396
+				"distance": 9299.269296645396,
+				"speed": 5.546154835191885
 			}
 		},
 		{
@@ -6790,7 +7072,8 @@
 				"pcElev": null,
 				"elev": null,
 				"time": 1410,
-				"distance": 9327.000062732732
+				"distance": 9327.000062732732,
+				"speed": 5.546153217467003
 			}
 		},
 		{
@@ -6814,7 +7097,8 @@
 				"pcElev": null,
 				"elev": null,
 				"time": 1415,
-				"distance": 9355.457414712757
+				"distance": 9355.457414712757,
+				"speed": 5.6914703960049495
 			}
 		},
 		{
@@ -6838,7 +7122,8 @@
 				"pcElev": null,
 				"elev": null,
 				"time": 1420,
-				"distance": 9410.074459347834
+				"distance": 9410.074459347834,
+				"speed": 10.92340892701559
 			}
 		},
 		{
@@ -6862,7 +7147,8 @@
 				"pcElev": null,
 				"elev": null,
 				"time": 1425,
-				"distance": 9454.646344725104
+				"distance": 9454.646344725104,
+				"speed": 8.914377075454121
 			}
 		},
 		{
@@ -6886,7 +7172,8 @@
 				"pcElev": null,
 				"elev": null,
 				"time": 1430,
-				"distance": 9477.751171157966
+				"distance": 9477.751171157966,
+				"speed": 4.620965286572329
 			}
 		},
 		{
@@ -6910,7 +7197,8 @@
 				"pcElev": null,
 				"elev": null,
 				"time": 1435,
-				"distance": 9513.323521805998
+				"distance": 9513.323521805998,
+				"speed": 7.114470129606334
 			}
 		},
 		{
@@ -6934,7 +7222,8 @@
 				"pcElev": null,
 				"elev": null,
 				"time": 1440,
-				"distance": 9550.919894029441
+				"distance": 9550.919894029441,
+				"speed": 7.519274444688612
 			}
 		},
 		{
@@ -6958,7 +7247,8 @@
 				"pcElev": null,
 				"elev": null,
 				"time": 1445,
-				"distance": 9572.360710275085
+				"distance": 9572.360710275085,
+				"speed": 4.288163249128724
 			}
 		},
 		{
@@ -6982,7 +7272,8 @@
 				"pcElev": null,
 				"elev": null,
 				"time": 1450,
-				"distance": 9598.452386818664
+				"distance": 9598.452386818664,
+				"speed": 5.218335308715809
 			}
 		},
 		{
@@ -7006,7 +7297,8 @@
 				"pcElev": null,
 				"elev": null,
 				"time": 1455,
-				"distance": 9652.354340946158
+				"distance": 9652.354340946158,
+				"speed": 10.780390825498678
 			}
 		},
 		{
@@ -7030,7 +7322,8 @@
 				"pcElev": null,
 				"elev": null,
 				"time": 1460,
-				"distance": 9680.165115704021
+				"distance": 9680.165115704021,
+				"speed": 5.56215495157284
 			}
 		},
 		{
@@ -7054,7 +7347,8 @@
 				"pcElev": null,
 				"elev": null,
 				"time": 1465,
-				"distance": 9706.998937535662
+				"distance": 9706.998937535662,
+				"speed": 5.366764366327981
 			}
 		},
 		{
@@ -7078,7 +7372,8 @@
 				"pcElev": null,
 				"elev": null,
 				"time": 1470,
-				"distance": 9733.832759358485
+				"distance": 9733.832759358485,
+				"speed": 5.366764364564835
 			}
 		},
 		{
@@ -7102,7 +7397,8 @@
 				"pcElev": null,
 				"elev": null,
 				"time": 1475,
-				"distance": 9762.474930190605
+				"distance": 9762.474930190605,
+				"speed": 5.728434166423833
 			}
 		},
 		{
@@ -7126,7 +7422,8 @@
 				"pcElev": null,
 				"elev": null,
 				"time": 1480,
-				"distance": 9820.36277138607
+				"distance": 9820.36277138607,
+				"speed": 11.577568239093008
 			}
 		},
 		{
@@ -7150,7 +7447,8 @@
 				"pcElev": null,
 				"elev": null,
 				"time": 1485,
-				"distance": 9849.616968450107
+				"distance": 9849.616968450107,
+				"speed": 5.850839412807657
 			}
 		},
 		{
@@ -7174,7 +7472,8 @@
 				"pcElev": null,
 				"elev": null,
 				"time": 1490,
-				"distance": 9875.926751054902
+				"distance": 9875.926751054902,
+				"speed": 5.261956520958831
 			}
 		},
 		{
@@ -7198,7 +7497,8 @@
 				"pcElev": null,
 				"elev": null,
 				"time": 1495,
-				"distance": 9925.541399442798
+				"distance": 9925.541399442798,
+				"speed": 9.922929677579427
 			}
 		},
 		{
@@ -7222,7 +7522,8 @@
 				"pcElev": null,
 				"elev": null,
 				"time": 1500,
-				"distance": 9948.846786127955
+				"distance": 9948.846786127955,
+				"speed": 4.661077337031398
 			}
 		},
 		{
@@ -7246,7 +7547,8 @@
 				"pcElev": null,
 				"elev": null,
 				"time": 1505,
-				"distance": 9977.589995158873
+				"distance": 9977.589995158873,
+				"speed": 5.748641806183662
 			}
 		},
 		{
@@ -7270,7 +7572,8 @@
 				"pcElev": null,
 				"elev": null,
 				"time": 1510,
-				"distance": 10006.333203658804
+				"distance": 10006.333203658804,
+				"speed": 5.748641699986072
 			}
 		},
 		{
@@ -7294,7 +7597,8 @@
 				"pcElev": null,
 				"elev": null,
 				"time": 1515,
-				"distance": 10036.936524236222
+				"distance": 10036.936524236222,
+				"speed": 6.120664115483684
 			}
 		},
 		{
@@ -7318,7 +7622,8 @@
 				"pcElev": null,
 				"elev": null,
 				"time": 1520,
-				"distance": 10095.88837556345
+				"distance": 10095.88837556345,
+				"speed": 11.790370265445693
 			}
 		},
 		{
@@ -7342,7 +7647,8 @@
 				"pcElev": null,
 				"elev": null,
 				"time": 1525,
-				"distance": 10124.237077921787
+				"distance": 10124.237077921787,
+				"speed": 5.669740471667233
 			}
 		},
 		{
@@ -7366,7 +7672,8 @@
 				"pcElev": null,
 				"elev": null,
 				"time": 1530,
-				"distance": 10153.150132968214
+				"distance": 10153.150132968214,
+				"speed": 5.782611009285213
 			}
 		},
 		{
@@ -7390,7 +7697,8 @@
 				"pcElev": null,
 				"elev": null,
 				"time": 1535,
-				"distance": 10182.063187348918
+				"distance": 10182.063187348918,
+				"speed": 5.782610876140902
 			}
 		},
 		{
@@ -7414,7 +7722,8 @@
 				"pcElev": null,
 				"elev": null,
 				"time": 1540,
-				"distance": 10214.683291148393
+				"distance": 10214.683291148393,
+				"speed": 6.5240207598949596
 			}
 		},
 		{
@@ -7438,7 +7747,8 @@
 				"pcElev": null,
 				"elev": null,
 				"time": 1545,
-				"distance": 10247.303394836068
+				"distance": 10247.303394836068,
+				"speed": 6.52402073753498
 			}
 		},
 		{
@@ -7462,7 +7772,8 @@
 				"pcElev": null,
 				"elev": null,
 				"time": 1550,
-				"distance": 10281.01785259243
+				"distance": 10281.01785259243,
+				"speed": 6.742891551272221
 			}
 		},
 		{
@@ -7486,7 +7797,8 @@
 				"pcElev": null,
 				"elev": null,
 				"time": 1555,
-				"distance": 10314.732308988989
+				"distance": 10314.732308988989,
+				"speed": 6.742891279312033
 			}
 		},
 		{
@@ -7510,7 +7822,8 @@
 				"pcElev": null,
 				"elev": null,
 				"time": 1560,
-				"distance": 10349.96660881619
+				"distance": 10349.96660881619,
+				"speed": 7.046859965440467
 			}
 		},
 		{
@@ -7534,7 +7847,8 @@
 				"pcElev": null,
 				"elev": null,
 				"time": 1565,
-				"distance": 10385.200902134133
+				"distance": 10385.200902134133,
+				"speed": 7.046858663588587
 			}
 		},
 		{
@@ -7558,7 +7872,8 @@
 				"pcElev": null,
 				"elev": null,
 				"time": 1570,
-				"distance": 10418.573104541738
+				"distance": 10418.573104541738,
+				"speed": 6.6744404815208895
 			}
 		},
 		{
@@ -7582,7 +7897,8 @@
 				"pcElev": null,
 				"elev": null,
 				"time": 1575,
-				"distance": 10451.94529763381
+				"distance": 10451.94529763381,
+				"speed": 6.674438618414422
 			}
 		},
 		{
@@ -7606,7 +7922,8 @@
 				"pcElev": null,
 				"elev": null,
 				"time": 1580,
-				"distance": 10484.626275139655
+				"distance": 10484.626275139655,
+				"speed": 6.536195501168834
 			}
 		},
 		{
@@ -7630,7 +7947,8 @@
 				"pcElev": null,
 				"elev": null,
 				"time": 1585,
-				"distance": 10517.307243662111
+				"distance": 10517.307243662111,
+				"speed": 6.536193704491407
 			}
 		},
 		{
@@ -7654,7 +7972,8 @@
 				"pcElev": null,
 				"elev": null,
 				"time": 1590,
-				"distance": 10552.612899671223
+				"distance": 10552.612899671223,
+				"speed": 7.061131201822488
 			}
 		},
 		{
@@ -7678,7 +7997,8 @@
 				"pcElev": null,
 				"elev": null,
 				"time": 1595,
-				"distance": 10587.918552793031
+				"distance": 10587.918552793031,
+				"speed": 7.061130624361525
 			}
 		},
 		{
@@ -7702,7 +8022,8 @@
 				"pcElev": null,
 				"elev": null,
 				"time": 1600,
-				"distance": 10621.014105426035
+				"distance": 10621.014105426035,
+				"speed": 6.619110526600889
 			}
 		},
 		{
@@ -7726,7 +8047,8 @@
 				"pcElev": null,
 				"elev": null,
 				"time": 1605,
-				"distance": 10654.109657882225
+				"distance": 10654.109657882225,
+				"speed": 6.619110491238176
 			}
 		},
 		{
@@ -7750,7 +8072,8 @@
 				"pcElev": null,
 				"elev": null,
 				"time": 1610,
-				"distance": 10684.179997051615
+				"distance": 10684.179997051615,
+				"speed": 6.014067833877907
 			}
 		},
 		{
@@ -7774,7 +8097,8 @@
 				"pcElev": null,
 				"elev": null,
 				"time": 1615,
-				"distance": 10714.250336182286
+				"distance": 10714.250336182286,
+				"speed": 6.014067826134015
 			}
 		},
 		{
@@ -7798,7 +8122,8 @@
 				"pcElev": null,
 				"elev": null,
 				"time": 1620,
-				"distance": 10746.805531187856
+				"distance": 10746.805531187856,
+				"speed": 6.511039001114052
 			}
 		},
 		{
@@ -7822,7 +8147,8 @@
 				"pcElev": null,
 				"elev": null,
 				"time": 1625,
-				"distance": 10779.360725773646
+				"distance": 10779.360725773646,
+				"speed": 6.511038917157954
 			}
 		},
 		{
@@ -7846,7 +8172,8 @@
 				"pcElev": null,
 				"elev": null,
 				"time": 1630,
-				"distance": 10815.069496862077
+				"distance": 10815.069496862077,
+				"speed": 7.141754217686464
 			}
 		},
 		{
@@ -7870,7 +8197,8 @@
 				"pcElev": null,
 				"elev": null,
 				"time": 1635,
-				"distance": 10850.778264472572
+				"distance": 10850.778264472572,
+				"speed": 7.141753522099019
 			}
 		},
 		{
@@ -7894,7 +8222,8 @@
 				"pcElev": null,
 				"elev": null,
 				"time": 1640,
-				"distance": 10885.642862135624
+				"distance": 10885.642862135624,
+				"speed": 6.972919532610481
 			}
 		},
 		{
@@ -7918,7 +8247,8 @@
 				"pcElev": null,
 				"elev": null,
 				"time": 1645,
-				"distance": 10920.50745194598
+				"distance": 10920.50745194598,
+				"speed": 6.97291796207084
 			}
 		},
 		{
@@ -7942,7 +8272,8 @@
 				"pcElev": null,
 				"elev": null,
 				"time": 1650,
-				"distance": 10954.418989446429
+				"distance": 10954.418989446429,
+				"speed": 6.782307500089724
 			}
 		},
 		{
@@ -7966,7 +8297,8 @@
 				"pcElev": null,
 				"elev": null,
 				"time": 1655,
-				"distance": 11017.468033645568
+				"distance": 11017.468033645568,
+				"speed": 12.609808839827688
 			}
 		},
 		{
@@ -7990,7 +8322,8 @@
 				"pcElev": null,
 				"elev": null,
 				"time": 1660,
-				"distance": 11061.025244406923
+				"distance": 11061.025244406923,
+				"speed": 8.711442152270905
 			}
 		},
 		{
@@ -8014,7 +8347,8 @@
 				"pcElev": null,
 				"elev": null,
 				"time": 1665,
-				"distance": 11080.207386036862
+				"distance": 11080.207386036862,
+				"speed": 3.8364283259877716
 			}
 		},
 		{
@@ -8038,7 +8372,8 @@
 				"pcElev": null,
 				"elev": null,
 				"time": 1670,
-				"distance": 11104.761333230164
+				"distance": 11104.761333230164,
+				"speed": 4.910789438660424
 			}
 		},
 		{
@@ -8062,7 +8397,8 @@
 				"pcElev": null,
 				"elev": null,
 				"time": 1675,
-				"distance": 11122.270042358701
+				"distance": 11122.270042358701,
+				"speed": 3.5017418257072053
 			}
 		},
 		{
@@ -8086,7 +8422,8 @@
 				"pcElev": null,
 				"elev": null,
 				"time": 1680,
-				"distance": 11153.021281166168
+				"distance": 11153.021281166168,
+				"speed": 6.150247761493157
 			}
 		},
 		{
@@ -8110,7 +8447,8 @@
 				"pcElev": null,
 				"elev": null,
 				"time": 1685,
-				"distance": 11183.772471548771
+				"distance": 11183.772471548771,
+				"speed": 6.150238076520678
 			}
 		},
 		{
@@ -8134,7 +8472,8 @@
 				"pcElev": null,
 				"elev": null,
 				"time": 1690,
-				"distance": 11223.386044441439
+				"distance": 11223.386044441439,
+				"speed": 7.922714578533639
 			}
 		},
 		{
@@ -8158,7 +8497,8 @@
 				"pcElev": null,
 				"elev": null,
 				"time": 1695,
-				"distance": 11262.999535313278
+				"distance": 11262.999535313278,
+				"speed": 7.922698174367784
 			}
 		},
 		{
@@ -8182,7 +8522,8 @@
 				"pcElev": null,
 				"elev": null,
 				"time": 1700,
-				"distance": 11262.999535313278
+				"distance": 11262.999535313278,
+				"speed": 0
 			}
 		},
 		{
@@ -8206,7 +8547,8 @@
 				"pcElev": null,
 				"elev": null,
 				"time": 1705,
-				"distance": 11305.191500645104
+				"distance": 11305.191500645104,
+				"speed": 8.438393066365045
 			}
 		},
 		{
@@ -8230,7 +8572,8 @@
 				"pcElev": null,
 				"elev": null,
 				"time": 1710,
-				"distance": 11347.383377994667
+				"distance": 11347.383377994667,
+				"speed": 8.438375469912774
 			}
 		},
 		{
@@ -8254,7 +8597,8 @@
 				"pcElev": null,
 				"elev": null,
 				"time": 1715,
-				"distance": 11388.927200729027
+				"distance": 11388.927200729027,
+				"speed": 8.308764546871881
 			}
 		},
 		{
@@ -8278,7 +8622,8 @@
 				"pcElev": null,
 				"elev": null,
 				"time": 1720,
-				"distance": 11430.470960301938
+				"distance": 11430.470960301938,
+				"speed": 8.308751914582317
 			}
 		},
 		{
@@ -8302,7 +8647,8 @@
 				"pcElev": null,
 				"elev": null,
 				"time": 1725,
-				"distance": 11460.821114125378
+				"distance": 11460.821114125378,
+				"speed": 6.070030764687742
 			}
 		},
 		{
@@ -8326,7 +8672,8 @@
 				"pcElev": null,
 				"elev": null,
 				"time": 1730,
-				"distance": 11515.936352538858
+				"distance": 11515.936352538858,
+				"speed": 11.023047682696195
 			}
 		},
 		{
@@ -8350,7 +8697,8 @@
 				"pcElev": null,
 				"elev": null,
 				"time": 1735,
-				"distance": 11526.898923175928
+				"distance": 11526.898923175928,
+				"speed": 2.19251412741379
 			}
 		},
 		{
@@ -8374,7 +8722,8 @@
 				"pcElev": null,
 				"elev": null,
 				"time": 1740,
-				"distance": 11550.895513115172
+				"distance": 11550.895513115172,
+				"speed": 4.799317987848754
 			}
 		}
 	]
