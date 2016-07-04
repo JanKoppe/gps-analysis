@@ -3,7 +3,7 @@ var gpx = require('idris-gpx');
 var fs = require('fs');
 
 // 5 seconds between each track point
-const POINT_TIME = 5;
+const POINT_TIME = 3;
 
 // prepare results folder
 try {
@@ -20,7 +20,8 @@ try {
 var files = fs.readdirSync('data/');
 files.map(file => {
   gpx.lines('data/' + file, 1000, collection => {
-   collection.features.map((feature, i, features) => {
+    collection.features.map((feature, i, features) => {
+      console.log(feature.geometry);
       // calculate time since start
       feature.properties.time = i * POINT_TIME;
       // calcule total distance from beginning
@@ -44,6 +45,15 @@ files.map(file => {
     // save to geojson file
     fs.writeFileSync('results/' + file + '-lines.json',
         JSON.stringify(collection, null, '\t'),
+        { encoding: 'utf8' });
+    // save stats like mean speed, total time, total distance
+    var time = collection.features.length * POINT_TIME;
+    // distance from start for last feature of collection
+    var distance = collection.features[collection.features.length-1].properties.distance;
+    var speedms = distance / time;
+    var speedkmh = speedms * 3.6;
+    fs.writeFileSync('results/' + file + '-stats.csv',
+        time + ',' + distance + ',' + speedms + ',' + speedkmh,
         { encoding: 'utf8' });
   });
 });
