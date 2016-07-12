@@ -2,7 +2,7 @@ var gpsUtil = require('gps-util');
 var gpx = require('idris-gpx');
 var fs = require('fs');
 
-// 5 seconds between each track point
+// 3 seconds between each track point
 const POINT_TIME = 3;
 
 // prepare results folder
